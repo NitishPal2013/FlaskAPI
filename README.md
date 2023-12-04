@@ -8,11 +8,13 @@ This is the simplest Flask server with MongoDB Atlas cluster integration.
 * Clone the repository
 * setup the virtual invironment
 * Install requirements :
-'''
+
+```
 pip install requirements.txt
-'''
+```
+
 * Run the application:
-'''
+```
 python app.py
-'''
+```
 
